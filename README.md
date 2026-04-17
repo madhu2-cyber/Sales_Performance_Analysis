@@ -1,6 +1,7 @@
 # Sales Performance Analysis Dashboard
 
 **🎯 Project Objective**<br>
+
 To analyze a transactional sales dataset to uncover business performance, customer behavior, product profitability, and geographic distribution, to enhance operational efficiency. To demonstrate **SQL proficiency** and **Power BI Visualization** skills to report business insights.
 ---
 
@@ -63,7 +64,7 @@ Top Markets by Revenue:
 **📈 Power BI Dashboard**<br>
 Transformed SQL results into an interactive dashboard with the visuals telling a complete business story.<br>
 
->*Dashboard File:* [Power BI Dashboard File](Power BI/Sales_Analysis.pbix) <br>
+>*Dashboard File:* [Power BI Dashboard File](/Power%20BI/Sales_Analysis.pbix) <br>
 
 *DAX Measures Applied:*<br>
 - Average_Lines_Per_Order = DIVIDE([Total_Order_Lines],[Total_Orders])
