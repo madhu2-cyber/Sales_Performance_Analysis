@@ -2,7 +2,9 @@
 
 **🎯 Project Objective**<br>
 
- To analyze a transactional sales dataset to uncover business performance, customer behavior, product profitability, and geographic distribution, to enhance operational efficiency. To demonstrate **SQL proficiency** and **Power BI Visualization** skills to report business insights.
+    To analyze a transactional sales dataset to uncover business performance, customer behavior, product profitability, 
+    and geographic distribution, to enhance operational efficiency. To demonstrate **SQL proficiency** and **Power BI Visualization** 
+    skills to report business insights.
 ---
 
 **🛠️ Skills Demonstrated**<br>
@@ -52,14 +54,12 @@ Top Product Lines by Revenue:<br>
 3. Motorcycles: 12% ($1129573.83)
 
 *Customer Analysis*
-
 Top Customer by Expense and Country:<br>
 1. Euro Shopping Channel: $ 795328.22 - Spain
 2. Mini Gifts Distributors Ltd: $ 647596.31 - USA
 3. Australian Collectors, Co: $ 200995.41 – Australia
 
 *Geographic Analysis*
-
 Top Markets by Revenue:<br>
 1. USA (NA): $3416477.64
 2. SPAIN (): $ 1098721.03
