@@ -2,9 +2,8 @@
 
 **🎯 Project Objective**<br>
 
-    To analyze a transactional sales dataset to uncover business performance, customer behavior, product profitability, 
-    and geographic distribution, to enhance operational efficiency. To demonstrate **SQL proficiency** and **Power BI 
-    Visualization** skills to report business insights.
+To analyze a transactional sales dataset to uncover business performance, customer behavior, product profitability, and geographic distribution, 
+to enhance operational efficiency. To demonstrate **SQL proficiency** and **Power BI Visualization** skills to report business insights.
 ---
 
 **🛠️ Skills Demonstrated**<br>
@@ -58,7 +57,7 @@ Top Product Lines by Revenue:
 Top Customer by Expense and Country:
 1. Euro Shopping Channel: $ 795328.22 - Spain
 2. Mini Gifts Distributors Ltd: $ 647596.31 - USA
-3. Australian Collectors, Co: $ 200995.41 – Australia
+3. Australian Collectors, Co: $ 200995.41 - Australia
 
 *Geographic Analysis*<br>
 
