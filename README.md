@@ -1,7 +1,9 @@
 # Sales Performance Analysis Dashboard
 
 **🎯Project Objective**<br>
-To analyze a transactional sales dataset to uncover business performance, customer behavior, product profitability, and geographic distribution, to enhance operational efficiency. To demonstrate SQL proficiency and Power BI visualization skills to report business insights.
+---
+To analyse a transactional sales dataset to uncover business performance, customer behavior, product profitability, and geographic distribution, to enhance operational efficiency. To demonstrate **SQL proficiency** and **Power BI visualization skills** to report business insights.
+
 ---
 
 **🛠️ Skills Demonstrated**<br>
@@ -43,12 +45,12 @@ Average Lines per Order: 9<br>
 -	Monthly revenue trend with 3-month moving average
 -	Quarterly revenue trend
 
-*Product Performance*- Top Product Lines by Revenue:
+*Product Performance* - Top Product Lines by Revenue:
 1. Classic Cars: 39% ($3727559.67)
 2. Vintage Cars: 19% ($1773127.19)
 3. Motorcycles: 12% ($1129573.83)
 
-*Customer Analysis*- Top Customer by Expense and Country:
+*Customer Analysis* - Top Customer by Expense and Country:
 1. Euro Shopping Channel: $ 795328.22 - Spain
 2. Mini Gifts Distributors Ltd: $ 647596.31 - USA
 3. Australian Collectors, Co: $ 200995.41 - Australia
