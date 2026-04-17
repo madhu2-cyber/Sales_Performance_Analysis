@@ -1,7 +1,7 @@
 # Sales Performance Analysis Dashboard
 
-🎯 **Project Objective**<br>
-To analyze a transactional sales dataset to uncover business performance, customer behavior, product profitability, and geographic distribution, to enhance operational efficiency. To demonstrate SQL proficiency and Power BI visualization skills to report business insights.
+**🎯 Project Objective**<br>
+To analyze a transactional sales dataset to uncover business performance, customer behavior, product profitability, and geographic distribution, to enhance operational efficiency. To demonstrate **SQL proficiency** and **Power BI Visualization** skills to report business insights.
 ---
 
 🛠️ **Skills Demonstrated**<br>
@@ -11,19 +11,23 @@ To analyze a transactional sales dataset to uncover business performance, custom
 ---
 
 📊 **Dataset**<br>
-*Source:* Kaggle - Sales transactions CSV (line-level data)<br>
-*Key Fields:*<br>
-Order_Number, Order_Line_Number, <br>
+*Source:* Kaggle - Sales Transactions csv (line-level data)<br>
+
+*Key-Fields:*<br>
+Order_Number, Order_Line_Number,<br> 
 Sales, Quantity_Ordered, Price_Each,<br>
-Order_Date, Year_Id, Month_Id, Quarter_Id,<br>
+Year_Id, Month_Id, Quarter_Id,<br>
 Product_Line, Product_Code,<br>
-Customer_Name, Country, Territory <br>
-*Time Period:* 2003–2005 (2 years and 5months of data)
+Customer_Name, Country, Territory<br>
+
+*Time Period:* 2003 - 2005 (2 years and 5 months of data)
+
 ---
 
 🔍 **SQL Analysis** (22 Queries)<br>
 Analysed the dataset using SQL queries covering business KPIs, time series, product performance, customer segmentation, and geographic distribution.<br>
-*Full Query Library:* Sales_Analysis.sql<br>
+
+>*Full Query Library:* [SQL Analysis File](SQL/Sales_Analysis.sql)<br>
 
 *Core Business KPIs*<br>
 Total Revenue: $9,442,219<br>
@@ -58,15 +62,16 @@ Top Markets by Revenue:
 
 **📈 Power BI Dashboard**<br>
 Transformed SQL results into an interactive dashboard with the visuals telling a complete business story.<br>
-*Dashboard File:* Sales_Analysis.pbix<br>
+
+>*Dashboard File:* [Power BI Dashboard File](Power BI/Sales_Analysis.pbix) <br>
 
 *DAX Measures Applied:*<br>
--Average_Lines_Per_Order = DIVIDE([Total_Order_Lines],[Total_Orders])
--Average_Order_Value = DIVIDE([Total_Revenue],[Total_Orders]) 
--Total_Order_Lines = COUNTROWS(Sales)
--Total_Orders = DISTINCTCOUNT(Sales[Order_Number]) 
--Total_Revenue = SUM(Sales[Sales]) 
--Total_Units = SUM(Sales[Quantity_Ordered]) 
+- Average_Lines_Per_Order = DIVIDE([Total_Order_Lines],[Total_Orders])
+- Average_Order_Value = DIVIDE([Total_Revenue],[Total_Orders]) 
+- Total_Order_Lines = COUNTROWS(Sales)
+- Total_Orders = DISTINCTCOUNT(Sales[Order_Number]) 
+- Total_Revenue = SUM(Sales[Sales]) 
+- Total_Units = SUM(Sales[Quantity_Ordered]) 
 ---
 
 **💡 Key Business Insights**<br>
