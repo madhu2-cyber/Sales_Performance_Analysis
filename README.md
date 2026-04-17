@@ -1,10 +1,7 @@
 # Sales Performance Analysis Dashboard
 
-**🎯 Project Objective**<br>
-
-To analyze a transactional sales dataset to uncover business performance, customer behavior, product profitability, 
-and geographic distribution, to enhance operational efficiency. To demonstrate **SQL proficiency** and **Power BI Visualization** 
-skills to report business insights.
+**🎯Project Objective**<br>
+To analyze a transactional sales dataset to uncover business performance, customer behavior, product profitability, and geographic distribution, to enhance operational efficiency. To demonstrate SQL proficiency and Power BI visualization skills to report business insights.
 ---
 
 **🛠️ Skills Demonstrated**<br>
